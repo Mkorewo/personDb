@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1698046819 source:c:\users\ceyjz\desktop\persondb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1697551500 c:\users\ceyjz\desktop\persondb\include\functions.h
+
+1698048456 source:c:\users\ceyjz\desktop\persondb\src\filemenagement.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+
+1698045732 c:\users\ceyjz\desktop\persondb\include\filemenagement.h
+
+1698046594 source:c:\users\ceyjz\desktop\persondb\src\functions.c
+	"functions.h"
+	"fileMenagement.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1697342853 source:c:\users\ceyjz\desktop\persondb\src\personobj.c
+	"personObj.h"
+
+1697341689 c:\users\ceyjz\desktop\persondb\include\personobj.h
+
