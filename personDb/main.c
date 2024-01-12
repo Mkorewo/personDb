@@ -25,7 +25,6 @@ int main()
                 printf("podaj wiek: ");
                 scanf("%s", age);
 
-
                 addData(name,surname,age);
                 system("cls");
                 showUi();
@@ -45,10 +44,15 @@ int main()
                 showData();
                 showUi();
                 break;
+            case '5':
+                system("cls");
+                u_sMgmt();
+                showUi();
+                break;
 
         }
 
 
-    }while(choice!='5');
+    }while(choice!='6');
     return 0;
 }
